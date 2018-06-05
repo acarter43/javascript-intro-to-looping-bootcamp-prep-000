@@ -26,6 +26,6 @@ function whileLoop(number)
 }
  
 do {
- 
+ array = array(slice(1))
 } while (maybeTrue());
   }
