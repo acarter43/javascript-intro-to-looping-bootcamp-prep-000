@@ -26,6 +26,6 @@ function whileLoop(number)
 }
  
 do {
-  console.log('doo-bee-doo-bee-doo')
+ 
 } while (maybeTrue());
   }
